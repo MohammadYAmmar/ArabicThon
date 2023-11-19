@@ -1,6 +1,6 @@
 # لُغتنا اليوم
 
-![alt]([https://](https://github.com/MohammadYAmmar/Language_today_ArabicThon/blob/main/logo.png))
+![alt]([[https://](https://github.com/MohammadYAmmar/Language_today_ArabicThon/blob/main/logo.png)](https://github.com/MohammadYAmmar/Language_today_ArabicThon/blob/main/logo.png))
 
 المشاركة في تحدي برمجان العربية 2
 
@@ -19,6 +19,6 @@
 
 
 ## أعضاء الفريق
-محمد ياسر عمار
-فرقان محمد فيض
-فتحي فراس العيسى 
+- محمد ياسر عمار
+- فرقان محمد فيض
+- فتحي فراس العيسى 
