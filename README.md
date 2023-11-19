@@ -1,6 +1,9 @@
 # لُغتنا اليوم
 
-![alt]([[https://](https://github.com/MohammadYAmmar/Language_today_ArabicThon/blob/main/logo.png)](https://github.com/MohammadYAmmar/Language_today_ArabicThon/blob/main/logo.png))
+
+
+   ![alt text](https://github.com/MohammadYAmmar/Language_today_ArabicThon/blob/main/logo.png "Logo for Idea")
+
 
 المشاركة في تحدي برمجان العربية 2
 
@@ -11,6 +14,9 @@
 
 طريقةالحل:
 تم تنفيذ الحل المقترح باستخدام لغة البرمجة (Node JS) لربط معجم الرياض مع اليكسا. تم إنشاء مهارة مخصصة تتيح لليكسا الوصول إلى معجم الرياض واستخراج كلمة عشوائية من بيانات المعجم. تم تكوين هذه المهارة لتقديم كلمة ومعنى الكلمة باللغة العربية لتحقيق قيمة لغوية.
+
+   ![alt text](https://github.com/MohammadYAmmar/Language_today_ArabicThon/blob/main/Explain%20Solution.gif "GIF of solution")
+
 
  بالإضافة إلى ذلك، تم تنظيم واجهة صوتية سهلة الاستخدام تمكن المستخدمين من الوصول بسهولة إلى الكلمة اليومية وفهم معناها. يتم تحديث الكلمة في كل مرة يطلبها المستخدم لتحفيز التفاعل المستمر مع المستخدمين. فيما يخص الربط مع منبه الصباح، يمكن برمجة الحل ليرتبط بمنبه اليكسا بحيث يمكن أن يكون سماع الكلمة اليومية جزءًا من روتين صباح المستخدم. هذا يعزز التفاعل اليومي ويجعل تجربة تعلم اللغة أكثر اندماجاً في حياتهم اليومية.
 
